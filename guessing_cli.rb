@@ -4,4 +4,6 @@ def run_guessing_game
   unless answer=='exit'
   end
   
+  puts "Goodbye!"
+  
 end
